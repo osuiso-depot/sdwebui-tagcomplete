@@ -13,8 +13,11 @@ const core = [
     "#txt2img_edit_style_prompt > label > textarea",
     "#txt2img_edit_style_neg_prompt > label > textarea",
     "#img2img_edit_style_prompt > label > textarea",
-    "#img2img_edit_style_neg_prompt > label > textarea"
+    "#img2img_edit_style_neg_prompt > label > textarea",
+    "#script_txt2img_prompts_from_file_extended_prompt_txt > label > textarea",
+    "#script_img2img_prompts_from_file_extended_prompt_txt > label > textarea"
 ];
+
 
 // Third party text area selectors
 const thirdParty = {
