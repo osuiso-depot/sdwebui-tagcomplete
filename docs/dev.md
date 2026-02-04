@@ -1,3 +1,7 @@
+# 独自実装
+* `negative`をsuggestion対象に追加した。
+
+# コマンドメモ
 ```bash
 # set upstream
 git remote add upstream https://github.com/DominikDoom/a1111-sd-webui-tagcomplete
